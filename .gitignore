@@ -6,6 +6,7 @@
 /dist
 
 # dependencies
+.dist
 /node_modules
 package-lock.json
 
@@ -42,3 +43,43 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+dist/1.07ff48a34011da30d496.js
+dist/2.d5d66fb565cc35cb25a4.js
+dist/3.4e06f20e1abe7db485c4.js
+dist/3rdpartylicenses.txt
+dist/4.5155810445d94ceb6b58.js
+dist/5.a503abe30ae186904613.js
+dist/6.a97c2d3de28a197cadc1.js
+dist/7.bb44c1a7321ed80a9959.js
+dist/8.8ff81c58b04baca19ff5.js
+dist/9.bc17644bc96b34a5eff3.js
+dist/10.5e38288e5f1ce7d9c47e.js
+dist/11.148c568d5f43def6f662.js
+dist/12.1faac5a34040be8bfbf9.js
+dist/13.ebf8bc8b2bdca88ed122.js
+dist/14.4cdcc8acdfedb5fe06f2.js
+dist/common.f16d6f70975b6e9a3881.js
+dist/favicon.ico
+dist/fontawesome-webfont.674f50d287a8c48dc19b.eot
+dist/fontawesome-webfont.912ec66d7572ff821749.svg
+dist/fontawesome-webfont.af7ae505a9eed503f8b8.woff2
+dist/fontawesome-webfont.b06871f281fee6b241d6.ttf
+dist/fontawesome-webfont.fee66e712a8a08eef580.woff
+dist/index.html
+dist/main.4b20b7ce32df78939b4f.js
+dist/polyfills.1371016fb090fbda5d54.js
+dist/runtime.fc1c0265092c2882fc36.js
+dist/scripts.1cd05d3e7f9761ff7fcc.js
+dist/styles.205f7bdd876b2e9f7b05.css
+dist/assets/i18n/de.json
+dist/assets/i18n/en.json
+dist/assets/i18n/es.json
+dist/assets/i18n/fa.json
+dist/assets/i18n/fr.json
+dist/assets/i18n/it.json
+dist/assets/i18n/ur.json
+dist/assets/i18n/zh-CHS.json
+dist/assets/images/logo.png
+dist/assets/images/slider1.jpg
+dist/assets/images/slider2.jpg
+dist/assets/images/slider3.jpg
